@@ -1,6 +1,17 @@
 - 👋 Hi, I’m @JonyNhoque
-- Web Developer currently studying React and Next.js;
-- Interested in Fullstack development and a deeper dive in software engeneering. 
+- Self-taught Web Developer currently focusing on SPA frameworks such as React and Next.js;
+- Curent set of skills are: 
+
+* HTML5
+* CSS3
+* React
+* Next.js
+* Node.js
+* TypeScript
+* Styed Components
+* Apollo Server
+
+Eager to participate in projects, sharing knolege and help to build creative and solid solutions.
 
 <!---
 JonyNhoque/JonyNhoque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
