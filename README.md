@@ -10,6 +10,8 @@
 * TypeScript
 * Styed Components
 * Apollo Server
+* Express.js
+* MongoDB
 
 Eager to participate in projects, sharing knolege and help to build creative and solid solutions.
 
