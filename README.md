@@ -1,17 +1,14 @@
 - 👋 Hi, I’m @JonyNhoque
-- Self-taught Web Developer currently focusing on SPA frameworks such as React and Next.js;
-- Curent set of skills are: 
+- Self-taught Front-End Developer currently working with React.js and Next.js;
+- Have experience with: 
 
 * HTML5
-* CSS3
-* React
-* Next.js
+* CSS3 | Styled-components | Sass
+* JavaScript | TypeScript
+* React.js | Next.js
 * Node.js
-* TypeScript
-* Styed Components
-* Apollo Server
-* Express.js
-* MongoDB
+* Apollo Server | Express.js
+* MongoDB 
 
 Eager to participate in projects, sharing knolege and help to build creative and solid solutions.
 
